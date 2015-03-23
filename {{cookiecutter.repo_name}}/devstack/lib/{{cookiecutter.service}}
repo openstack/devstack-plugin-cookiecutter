@@ -1,0 +1,30 @@
+#!/bin/bash
+
+function pre_install_{{cookiecutter.service}}() {
+    # Install OS packages if necessary with "install_package ...".
+}
+
+function install_{{cookiecutter.service}}() {
+    # Install the service.
+}
+
+function configure_{{cookiecutter.service}}() {
+    # Configure the service.
+}
+
+function init_{{cookiecutter.service}}() {
+    # Initialize and start the service.
+}
+
+function shutdown_{{cookiecutter.service}}() {
+    # Shut the service down.
+}
+
+function cleanup_{{cookiecutter.service}}() {
+    # Cleanup the service.
+}
+
+# Tell emacs to use shell-script-mode
+## Local variables:
+## mode: shell-script
+## End:
