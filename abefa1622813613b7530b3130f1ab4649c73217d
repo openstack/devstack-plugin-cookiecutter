@@ -1,0 +1,8 @@
+Code-Review+2: James E. Blair <corvus@inaugust.com>
+Workflow+1: James E. Blair <corvus@inaugust.com>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Mon, 01 Jun 2015 21:59:02 +0000
+Reviewed-on: https://review.openstack.org/183792
+Project: openstack-dev/devstack-plugin-cookiecutter
+Branch: refs/heads/master
