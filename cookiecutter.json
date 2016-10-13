@@ -1,3 +1,4 @@
 {
-    "service": "replace with the name for the devstack service"
+    "service": "replace with the name for the devstack service",
+    "repo_name": "replace with the name for the git repo"
 }
